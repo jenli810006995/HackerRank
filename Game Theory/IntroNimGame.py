@@ -1,3 +1,5 @@
+# credit to Sergey Nemov
+
 import math
 import os
 import random
@@ -19,3 +21,4 @@ for _ in range(g):
     pile = list(map(int, input().rstrip().split()))
     result = nimGame(pile)
     print(result)
+
