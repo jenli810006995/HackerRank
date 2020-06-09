@@ -1,5 +1,9 @@
 #!/bin/python3
 
+# Credit to https://sites.northwestern.edu/acids/2018/11/12/solution-hackerrank-array-manipulation/
+# Resources: https://wcipeg.com/wiki/Prefix_sum_array_and_difference_array
+# Resources: https://stackoverflow.com/questions/48162233/logic-used-behind-array-manipulation-of-hackerrank
+
 import math
 import os
 import random
